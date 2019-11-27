@@ -1,0 +1,11 @@
+bob:
+    age: 22
+    color:
+      - red
+      - blue
+
+alice:
+    age: 14
+    color:
+      - black
+      - pink
