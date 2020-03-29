@@ -12,7 +12,6 @@ mysql = MySQL(app)
 
 
 @app.route('/', methods=['GET'])
-@
 def index():
     if request.method == "GET":
         firstName = "palathip"
